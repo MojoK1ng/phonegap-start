@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Mobile Project - "Hello World"</name>
+    <name>Mobile Project Hello World</name>
 
     <description>
-        A practise sample of the "Hello World" application.
+        A practise sample of the Hello World application.
     </description>
         
     <author href="http://phonegap.com" email="support@phonegap.com">
